@@ -1,17 +1,16 @@
 {
-  "name": "understanding-typescript",
+  "name": "typescript-proyect",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "Proyect to keep Learning Typescript",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
   },
   "keywords": [
-    "typescript",
-    "course"
+    "typescript"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Laura Arcidiacono",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
