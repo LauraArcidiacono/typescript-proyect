@@ -24,7 +24,7 @@ class ProjectState {
     
     addProject(title: string, description: string, numOfPeople: number){
         const newProject = {
-            id: uuidv4(),
+            id: uuidv4().toString(),
             title: title,
             description: description,
             people: numOfPeople
